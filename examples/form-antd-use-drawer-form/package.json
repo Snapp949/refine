@@ -29,7 +29,7 @@
     "@refinedev/simple-rest": "^5.0.8",
     "antd": "^5.17.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react-dom": "^19.1.0",
     "react-router-dom": "^6.8.1"
   },
   "devDependencies": {
